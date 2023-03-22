@@ -1,0 +1,29 @@
+{
+  "name": "@rocketoncall/client",
+  "version": "1.0.0",
+  "description": "Rocket On-call NodeJS client.",
+  "main": "src/client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocketoncall/nodejs-client.git"
+  },
+  "keywords": [
+    "rocketoncall",
+    "nodejs",
+    "alerting",
+    "client"
+  ],
+  "author": "rocketoncall.com <romain@rocketoncall.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/rocketoncall/nodejs-client/issues"
+  },
+  "homepage": "https://github.com/rocketoncall/nodejs-client#readme"
+}
